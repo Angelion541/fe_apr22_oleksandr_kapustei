@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+
+    </head>
+    <body>
+        <page number="1" color="yellow">
+            Page 1 content
+        </page>
+
+        <page number="2">
+            Page 2 content
+        </page>
+        
+        <page></page>
+        <page></page>
+    </body> 
+</html>
